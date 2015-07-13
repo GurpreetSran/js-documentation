@@ -1,2 +1,1 @@
-# js-patterns
-Javascript design patterns
+# Javascript best practises, design patterns and documentation
